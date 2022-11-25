@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 49e65d9bd3ddfea4fb61fcac849474be
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameManager: {instanceID: 0}
+  - bombGate: {fileID: 1210124443122755427, guid: 0024c3791034da34cbc282275028c2bb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
